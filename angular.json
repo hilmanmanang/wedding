@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "wedding"
+  "defaultProject": "wedding",
+  "cli": {
+    "analytics": "5c843cb5-be5e-40ea-9744-db3f499a47f7"
+  }
 }
