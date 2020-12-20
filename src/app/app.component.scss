@@ -1,0 +1,24 @@
+.bg {
+    background-image: url('./../assets/ring.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: grey;
+}
+
+.card-border {
+    height: 1000px;
+}
+
+.center {
+    margin: auto;
+    width: 60%;
+}
+
+.card {
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.6);
+}
+
+@media (max-width: 1920px) {
+    
+}
